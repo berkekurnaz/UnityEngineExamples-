@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6dcb023e9540153458582b0fc291e14e
+timeCreated: 1516819371
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ChapterOne Vintage Free
+  fontNames:
+  - ChapterOne Vintage Free
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2a6a59cdb6386f74dbe93c106fd30275, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

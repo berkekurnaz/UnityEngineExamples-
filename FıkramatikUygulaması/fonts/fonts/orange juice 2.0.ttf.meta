@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e38ee4929423e91479854fdfce6199aa
+timeCreated: 1516819371
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: orange juice
+  fontNames:
+  - orange juice
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

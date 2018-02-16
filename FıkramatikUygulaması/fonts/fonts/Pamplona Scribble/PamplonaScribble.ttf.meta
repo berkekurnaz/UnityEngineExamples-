@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 75242db7d6cd5d54898f3e5965f26633
+timeCreated: 1516819371
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: PamplonaScribble
+  fontNames:
+  - PamplonaScribble
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

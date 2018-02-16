@@ -1,0 +1,17 @@
+Merhaba...
+Son Zamanlarda Yazdýðým Fýkramatik Uygulamasýný Buraya Kodlarýyla Beraber Yükledim.
+Üstünde Ýstediðiniz Deðiþikliði Yaparak Kullanabilirsiniz.
+Ayrýca Uygulama Bütününde;
+---Uygulamanýn Neredeyse Tamamý Unity User Interface(UI) Ýle Oluþturuldu...
+---Ayarlar Menüsündeki Ses Düzeyi Ayarý PlayerPrefs Ýle Yapýldý 
+   Böylelikle Sahneler Arasý Geçiþte Deðerler Korundu...
+---Singleton Prensibi Ýle Sahneler Arasý Geçiþte Müzik Çalmasýný Koruduk...
+---Uygulama Ýçinde Ýletiþim Bölümü Oluþturup Bunu Mail Adresimize Yolladýk... 
+
+Anlamadýðýnýz Bir Nokta Olurse Veya Herhangi Bir Noktada Fikirlerinizi Sorularýnýzý 
+Sorabileceðim Adreslerim Þunlar;
+
+	www.berkekurnaz.com
+	bkoyunberkekurnaz@hotmail.com
+
+/*Ýyi Günler :) */
