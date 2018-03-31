@@ -1,3 +1,7 @@
-Zar Atma Simulasyonu
+# Zar Atma Simülasyonu
 
-Google Play Store'de Bulunan Unity3D Kullanarak Geliştirdiğim Uygulamam Zar Atma Simulasyonu'nun Proje Dosyalarına Buradan Ulaşabilirsiniz.
+Google Play Store'de Bulunan Unity3D Kullanarak Geliştirdiğim Uygulamam Zar Atma Simülasyonu'nun Proje Dosyalarına Buradan Ulaşabilirsiniz.
+
+# Google Play Linki
+
+https://play.google.com/store/apps/details?id=com.BKOyun.deneme
