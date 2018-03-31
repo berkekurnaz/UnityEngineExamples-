@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d8e04fc04da15264a90de386770d486a
+timeCreated: 1522364632
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Canela Bark Bold Personal Use
+  fontNames:
+  - Canela Bark Bold Personal Use
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

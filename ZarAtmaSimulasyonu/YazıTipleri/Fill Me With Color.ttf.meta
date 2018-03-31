@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 3c795abf1e788f04c8ebaf48acb70442
+timeCreated: 1522364632
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Fill Me With Color
+  fontNames:
+  - Fill Me With Color
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 21593598c5856164f984838f2341e838
+timeCreated: 1504003572
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Flanker Griffo
+  fontNames:
+  - Flanker Griffo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 032d2c2f0d81c4f4b95e68c7717645e4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
