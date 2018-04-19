@@ -1,0 +1,1 @@
+Bilgi Yarışması Sistemi 
