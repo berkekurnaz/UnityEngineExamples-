@@ -1,0 +1,3 @@
+# Bilgi Yarışması Sistemi 
+
+Unity 2017 Oyun Motoru ve C# Programlama Dili İle Hazırlanmış Temel Bilgi Yarışması Oyunu Sistemidir...
