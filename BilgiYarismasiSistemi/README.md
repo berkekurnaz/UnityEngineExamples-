@@ -24,3 +24,9 @@ else if (number == 4)<br />
         }<br />
 ###### Not : 
 Buradaki True Answer İçindeki Yazı İle Doğru Şıkkınızda Bulunan Yazının Bire Bir Aynı Olmasına Dikkat Ediniz...
+
+### Örnek Resimler
+
+![Resim1](https://github.com/berkekurnaz/UnityEngineExamples-/blob/master/BilgiYarismasiSistemi/Images/git1.png)
+![Resim2](https://github.com/berkekurnaz/UnityEngineExamples-/blob/master/BilgiYarismasiSistemi/Images/git2.png)
+![Resim3](https://github.com/berkekurnaz/UnityEngineExamples-/blob/master/BilgiYarismasiSistemi/Images/git3.png)
