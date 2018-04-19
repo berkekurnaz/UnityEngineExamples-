@@ -8,7 +8,7 @@ Dosyaları İndirip Projenizin İçine Yükleyin...
 
 ### Kullanım Ve Özellikler
 
-Oyun 'easyQuestionManager.cs' nin En Altında Bulunan CreateQuestion Fonksiyonunun İçinde Yazılmış 5 Sorudan Birini Rastgele Bize Getirir. Buradaki Soruların Sayısını Artırarak Kendi Bilgi Yarışması Oyununuzu Oluşturabilirsiniz. <br />
+Oyun 'easyQuestionManager.cs' nin En Altında Bulunan CreateQuestion Fonksiyonunun İçinde Yazılmış 5 Sorudan Birini Rastgele Bize Getirir. <br /> Buradaki Soruların Sayısını Artırarak Kendi Bilgi Yarışması Oyununuzu Oluşturabilirsiniz. <br />
 Ayrıca 'easyQuestionManager.cs' 390.Satırda Yer Alan number=Random.Range(0,5) ifadesindeki 5'i Yazmış Olduğunuz Soru Adeti İle Değiştirin. <br />
 Soru Sayınız Ne Kadar Fazla İse Aynı Soruların Kullanıcıya Gözükme İhtimali O Kadar Azalır.
 <br />
