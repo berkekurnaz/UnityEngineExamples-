@@ -4,7 +4,7 @@ Unity 2017 Oyun Motoru ve C# Programlama Dili İle Hazırlanmış Temel Bilgi Ya
 
 ### Nasıl Kullanırım?
 
-Klasördeki 'BilgiYarismaSistem.unitypackage' İndirip Assets-->Import Package-->Custom Package Yolu Aracılığıyla Projenize Ekleyebilirsiniz...
+Klasördeki 'BilgiYarismaSistem.unitypackage' İndirip Assets-->Import Package-->Custom Package Yolu Aracılığıyla Projenize Ekleyebilirsiniz
 
 ### Kullanım Ve Özellikler
 
