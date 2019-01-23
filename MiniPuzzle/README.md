@@ -7,7 +7,7 @@ Unity 3D Oyun Motoru İle Hazırlanmış Mini Puzzle Uygulaması.Rastgele boyutl
 - Uygulamada Örnek Olarak Kullanılmak Amacıyla Çizgi Filme Ait Olan Bir Resim Kullanılmıştır.<br>
 - Herhangi Bir Ses Dosyası Bulunmamaktadır<br>
 - Kazandınız Canvası Görsel Olarak Ve Animasyon Olarak Oluşturulmuştur<br>
-- Tek Bir Sahne Bulunmaktadır.
+- Tek Bir Sahne Bulunmaktadır.<br>
 
 ### Örnek Resimler
 
