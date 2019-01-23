@@ -18,3 +18,5 @@ Burada Unity3D Kulanarak Hazırladığım Bazı Çalışmalara Ulaşabilirsin.
 6-) Vampir Köylü Oyunu      : [Ulaşmak İçin Tıklayın...](https://github.com/berkekurnaz/UnityEngineExamples-/tree/master/VampirKoyluOyunu)
 
 7-) Android Hareket Örneği      : [Ulaşmak İçin Tıklayın...](https://github.com/berkekurnaz/UnityEngineExamples-/tree/master/Android_Hareket_Ornek)
+
+8-) Mini Puzzle      : [Ulaşmak İçin Tıklayın...](https://github.com/berkekurnaz/UnityEngineExamples-/tree/master/MiniPuzzle)
